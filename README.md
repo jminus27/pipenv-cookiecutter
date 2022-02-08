@@ -29,7 +29,7 @@ pipx ensurepath
 pipx install pipenv
 
 # Use cookiecutter to create project from this template
-pipx run cookiecutter gh:jevandezande/pipenv-cookiecutter
+pipx run cookiecutter gh:jminuskin/pipenv-cookiecutter
 ```
 
 
